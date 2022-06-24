@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gdgus
-- 👀 I’m interested in help to convert programs from c++ to c#
+- 👀 I’m interested java
 - 🌱 I’m currently learning .
 - 📫 How to reach me ...
 
